@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 set -e
 
-COMPAT_TABLE_COMMIT=fb3c71d4fea9b376c353752b28be38febd99688c
+COMPAT_TABLE_COMMIT=33466591e889d5c6622c8e89df94bb105667d5c8
 GIT_HEAD=build/compat-table/.git/HEAD
 
 if [ -d "build/compat-table" ]; then
