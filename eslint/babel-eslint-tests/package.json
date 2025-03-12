@@ -4,9 +4,9 @@
   "description": "Tests for babel/eslint-* packages",
   "private": true,
   "dependencies": {
-    "@babel/core": "workspace:^",
+    "@babel/core": "7.26.10",
     "@babel/eslint-parser": "workspace:^",
-    "@babel/preset-react": "workspace:^",
+    "@babel/preset-react": "7.0.0",
     "@eslint/compat": "^1.1.1",
     "dedent": "^1.5.3",
     "eslint": "^9.7.0",
